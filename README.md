@@ -18,10 +18,9 @@ The platform offers subject-wise lectures, DPPs, notes, conceptual explanations,
 - [Features](#-features)  
 - [Project Structure](#-project-structure)  
 - [Tech Stack](#-tech-stack)  
-- [How to Run Locally](#-how-to-run-locally)  
-- [Deployment](#-deployment)  
+- [How to Run Locally](#-how-to-run-locally)   
 - [Screenshots](#-screenshots)  
-- [License](#-license)
+
 
 ---
 
@@ -55,16 +54,23 @@ The platform is built as a **static website** using HTML, CSS and JavaScript wit
 Designed for mobile, tablet, and desktop users.
 
 ---
+##screenshots
+<img width="1912" height="861" alt="image" src="https://github.com/user-attachments/assets/22180f7a-5f8d-4486-b352-789e5286bd68" />
+<img width="1907" height="851" alt="image" src="https://github.com/user-attachments/assets/5e2ebe6b-6660-4be5-a8e4-6a7783212067" />
+<img width="1912" height="859" alt="image" src="https://github.com/user-attachments/assets/428b1965-e232-4041-96c9-c8148e24d7ca" />
+
+
+
 
 ## 📂 Project Structure  
 /
-├─ css/ ← Stylesheets
+├─ css/ # Stylesheets
 │ └─ style.css
-├─ image/ ← Images & assets
-├─ js/ ← JavaScript functionalities
+├─ image/ # Images & assets
+├─ js/ # JavaScript functionalities
 │ └─ script.js
 │
-├─ index.html ← Home page
+├─ index.html # Home page
 ├─ blog.html
 ├─ physicslecture.html
 ├─ physicsnotes.html
@@ -75,7 +81,7 @@ Designed for mobile, tablet, and desktop users.
 ├─ chemistrylecture.html
 ├─ chemistrynotes.html
 ├─ chemistrydpp.html
-├─ uddeshya.html ← Mission/About page
+├─ uddeshya.html # Mission/About page
 └─ README.md
 
 ---
