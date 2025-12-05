@@ -54,7 +54,7 @@ The platform is built as a **static website** using HTML, CSS and JavaScript wit
 Designed for mobile, tablet, and desktop users.
 
 ---
-##screenshots
+## ScreenShots
 <img width="1912" height="861" alt="image" src="https://github.com/user-attachments/assets/22180f7a-5f8d-4486-b352-789e5286bd68" />
 <img width="1907" height="851" alt="image" src="https://github.com/user-attachments/assets/5e2ebe6b-6660-4be5-a8e4-6a7783212067" />
 <img width="1912" height="859" alt="image" src="https://github.com/user-attachments/assets/428b1965-e232-4041-96c9-c8148e24d7ca" />
@@ -63,26 +63,8 @@ Designed for mobile, tablet, and desktop users.
 
 
 ## 📂 Project Structure  
-/
-├─ css/ # Stylesheets
-│ └─ style.css
-├─ image/ # Images & assets
-├─ js/ # JavaScript functionalities
-│ └─ script.js
-│
-├─ index.html # Home page
-├─ blog.html
-├─ physicslecture.html
-├─ physicsnotes.html
-├─ physicsdpp.html
-├─ mathslecture.html
-├─ mathsnotes.html
-├─ mathsdpp.html
-├─ chemistrylecture.html
-├─ chemistrynotes.html
-├─ chemistrydpp.html
-├─ uddeshya.html # Mission/About page
-└─ README.md
+<img width="384" height="600" alt="image" src="https://github.com/user-attachments/assets/fa188875-04f1-4103-8af6-287c3720d75c" />
+
 
 ---
 
